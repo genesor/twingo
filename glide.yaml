@@ -1,0 +1,4 @@
+package: github.com/genesor/twingo
+import:
+- package: github.com/labstack/echo
+  version: ~3.1
