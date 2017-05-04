@@ -26,3 +26,6 @@ _testmain.go
 # Glide
 vendor
 .glide/
+
+# Twingo
+twingo
